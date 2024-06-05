@@ -22,4 +22,4 @@ Generation: python generatorWFPNM.py --imageSize 128 --ngf 64 --ndf 16 --nz 512 
 Cite as: Linqi Zhu, Branko Bijeljic, Martin Julian Blunt. Generation of Heterogeneous Pore-Space Images Using Improved Pyramid Wasserstein Generative Adversarial Networks. ESS Open Archive . December 03, 2023.
 DOI: 10.22541/essoar.170158343.30188169/v1
 
- 
+![Figure](https://github.com/ImperialCollegeLondon/IPWGAN/raw/main/Figure.jpg)
